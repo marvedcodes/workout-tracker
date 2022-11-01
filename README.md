@@ -2,6 +2,7 @@
 
 Take a look this project with the features down below.
 
+![workout-tracker-kappa vercel app_(iMac)](https://user-images.githubusercontent.com/108392678/199262804-47b8a9d1-4337-4eb0-a75f-6249eec81b43.png)
 
 ## What I did in this project
 * Design as a Responsive web
