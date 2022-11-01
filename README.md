@@ -6,6 +6,7 @@ Take a look this project with the features down below.
 
 ## What I did in this project
 * Design as a Responsive web
+* Use of Local Storage API
 * Geolocation API
 * Displaying Google map via Leaflet Library
 * Using custom icons for Leaflet instead of just normal points on the map
